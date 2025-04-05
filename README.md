@@ -81,7 +81,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/ai-recruiter.git
+git clone https://github.com/AkhileshMalthi/AI-Recruiter.git
 cd ai-recruiter
 ```
 
@@ -96,7 +96,7 @@ pip install -r requirements.txt
 Make sure you have [Ollama](https://ollama.com) installed and a model pulled.
 
 ```bash
-ollama run llama2
+ollama run llama3.2
 # or pull embedding model
 ollama run nomic-embed-text
 ```
